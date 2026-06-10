@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": FudgeSMP.aternos.me",
+    "ip": "FudgeSMP.aternos.me",
     "port": 24902,
     "version": "",
     "try-creative": false
